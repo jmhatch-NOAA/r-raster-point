@@ -1,1 +1,5 @@
-
+/.git
+.Rproj.user
+*.Rproj
+/data-raw
+*.Rmd
